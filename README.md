@@ -1,3 +1,3 @@
-#First Web Scrapper
+## NewEgg CPU/GPU Web Scrapper
 
-A very simple scrapper to retrieve a list of CPU and GPU off of a website.
+A very simple scrapper to retrieve a list of CPU's and GPU's off of Newegg.
